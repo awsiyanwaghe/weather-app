@@ -21,7 +21,7 @@ body {
 }
 
 .search {
-    width: 100%;
+    width: 80%;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -37,7 +37,7 @@ body {
     border-radius: 30px;
     flex: 1;
     margin-right: 16px;
-    font-size: 18px;
+    font-size: 18px; 
 }
 .search button {
     border: 0;
@@ -47,6 +47,7 @@ body {
     width: 60px;
     height: 60px;
     cursor: pointer;
+    
 }
 
 .search button img {
